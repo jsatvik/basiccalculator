@@ -6,3 +6,6 @@
 
 
 Developed by satvik jalali(21BKT0061)
+
+LINK FOR THE CALCULATOR
+https://jsatvik.github.io/basiccalculator/
